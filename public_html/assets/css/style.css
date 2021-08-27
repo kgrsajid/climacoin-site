@@ -557,11 +557,11 @@ p.text {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  color: #5d5779;
+  color: #216818;
   padding-left: 20px;
 }
 .compare .coin-box .compare-box .single .icon p.text span {
-  color: #2e16a2;
+  color: #216818;
 }
 .compare .coin-box .compare-box .single h4.lasthead {
   display: -webkit-box;
@@ -1396,13 +1396,13 @@ p.text {
   padding: 115px 0px 120px;
 }
 .process .upper-content h4.lasthead {
-  color: #6342ff;
+  color: #ecb802;
 }
 .process .upper-content h2.title {
-  color: #3b368c;
+  color: #216818;
 }
 .process .upper-content p.text {
-  color: #504c89;
+  color: #216818;
 }
 .process .videoo {
   margin-top: 27px;
@@ -1535,7 +1535,7 @@ p.text {
   font-weight: 500;
   font-size: 18px;
   line-height: 28px;
-  color: #33276a;
+  color: #ecb802;
   padding: 0px 100px 0px;
 }
 .testomonial .owl-carousel .owl-nav .owl-prev {
@@ -1575,7 +1575,7 @@ p.text {
   background: #cbc7d9;
 }
 .testomonial .owl-carousel .owl-dots .owl-dot.active {
-  background: #6342ff;
+  background: #ecb802;
 }
 
 /* Footer Start */
@@ -1871,11 +1871,11 @@ p.text {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  color: #5d5779;
+  color: #216818;
   padding-left: 20px;
 }
 .compare .coin-box .compare-box .single .icon p.text span {
-  color: #2e16a2;
+  color: #216818;
 }
 .compare .coin-box .compare-box .single h4.lasthead {
   display: -webkit-box;
@@ -1954,15 +1954,15 @@ p.text {
   margin-bottom: 26px;
 }
 .upper-content h4.lasthead {
-  color: #6342ff;
+  color: #ecb802;
 }
 .upper-content h2.title {
-  color: #33276a;
+  color: #216818;
   font-weight: 700;
   padding: 21px 0 16px;
 }
 .upper-content p.text {
-  color: #33276a;
+  color: #216818;
 }
 .upper-content a.button.button-1 {
   margin-top: 33px;
@@ -2682,13 +2682,13 @@ p.text {
   padding: 115px 0px 120px;
 }
 .process .upper-content h4.lasthead {
-  color: #6342ff;
+  color: #ecb802;
 }
 .process .upper-content h2.title {
-  color: #3b368c;
+  color: #216818;
 }
 .process .upper-content p.text {
-  color: #504c89;
+  color: #216818;
 }
 .process .videoo {
   margin-top: 27px;
@@ -2721,7 +2721,7 @@ p.text {
 .process .videoo .video-box .video-img {
   position: relative;
   border-radius: 50%;
-  background-color: #6a4ee1;
+  background-color: #216818;
   width: 78px;
   height: 78px;
 }
@@ -2742,11 +2742,11 @@ p.text {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  color: #6a35ff;
+  color: #216818;
 }
 .process .videoo .video-box .video-text span {
   font-family: "Open Sans", sans-serif;
-  color: #3b368c;
+  color: #216818;
   font-size: 14px;
   line-height: 24px;
   font-weight: 600;
@@ -2779,7 +2779,7 @@ p.text {
   width: 100px;
   height: 1px;
   content: "";
-  background: #33276a;
+  background: #216818;
 }
 .testomonial .testo-box .single .person .tumb {
   margin: 0 auto;
@@ -2791,14 +2791,14 @@ p.text {
   font-weight: 600;
   font-size: 28px;
   line-height: 38px;
-  color: #33276a;
+  color: #216818;
 }
 .testomonial .testo-box .single .person h5 {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  color: #33276a;
+  color: #216818;
 }
 .testomonial .testo-box .single .content {
   padding: 0px 100px 0 100px;
@@ -2821,7 +2821,7 @@ p.text {
   font-weight: 500;
   font-size: 18px;
   line-height: 28px;
-  color: #33276a;
+  color: #ecb802;
   padding: 0px 100px 0px;
 }
 .testomonial .owl-carousel .owl-nav .owl-prev {
@@ -2861,7 +2861,7 @@ p.text {
   background: #cbc7d9;
 }
 .testomonial .owl-carousel .owl-dots .owl-dot.active {
-  background: #6342ff;
+  background: #216818;
 }
 
 /* Footer Start */
@@ -3090,7 +3090,7 @@ p.text {
 }
 .feature .feature-box p.text {
   font-family: "Josefin Sans", sans-serif;
-  color: #3b368c;
+  color: #216818;
   font-size: 20px;
   line-height: 30px;
   font-weight: 500;
